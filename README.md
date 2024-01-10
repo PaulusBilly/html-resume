@@ -1,1 +1,1 @@
-# my first capstone project from the html udemy course
+# my first capstone project from the webdev udemy course
